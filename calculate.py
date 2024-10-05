@@ -13,7 +13,7 @@ def calculate():
         if num2 != 0:
             print(f"The result is: {num1 / num2}")
         else:
-            print("Cannot divide by zero.")
+            print("Cannot divide by zero. and this is branch 2 branch2")
 
 if __name__ == "__main__":
     calculate()
