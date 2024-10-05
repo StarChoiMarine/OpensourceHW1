@@ -17,5 +17,3 @@ def calculate():
 
 if __name__ == "__main__":
     calculate()
-
-print("branch 2")
